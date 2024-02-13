@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>dominant</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="dominant-low-5"/>
   <readme>
     <en>80431fcb7cb5f1ab92c7689bc8278e12eefd5451de2e5ce06ae01cc2cba93532</en>
@@ -101,7 +101,7 @@
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="145" ppq="96" velocity="0.304"/>
       <note number="2" values="5" ticks="176" durationTicks="161" ppq="96" velocity="0.296"/>
-      <note number="3" values="1" ticks="361" durationTicks="97" ppq="96" velocity="0.314"/>
+      <note number="3" values="1" ticks="361" durationTicks="100" ppq="96" velocity="0.314"/>
     </notes>
   </exercise>
   <exercise number="9">

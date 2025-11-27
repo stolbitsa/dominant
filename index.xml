@@ -2,18 +2,18 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>dominant</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="stolbitsa" repo="dominant-low-5"/>
   <readme>
-    <en>80431fcb7cb5f1ab92c7689bc8278e12eefd5451de2e5ce06ae01cc2cba93532</en>
     <ru>bb0c9070bcf976b5e35cfacaf89ac3f8f1303fe34d863d77d839fac509aab746</ru>
+    <en>80431fcb7cb5f1ab92c7689bc8278e12eefd5451de2e5ce06ae01cc2cba93532</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <tonalities>1</tonalities>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="96" ppq="96" velocity="0.843"/>
       <note number="2" values="5" ticks="98" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -25,7 +25,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="wiseMenSay_0.mp4" size="686886" type="video/mp4">ba0d1b72dbba30b40c8251bea16e58ad111d3e090ff2e888d713a4ff3f6957fd</video>
+    <video name="wiseMenSay_0.mp4" size="686886" type="video/mp4" volume="1">ba0d1b72dbba30b40c8251bea16e58ad111d3e090ff2e888d713a4ff3f6957fd</video>
     <notes>
       <note number="1" values="1" ticks="471" durationTicks="277" ppq="192" velocity="0.324"/>
       <note number="2" values="5" ticks="844" durationTicks="282" ppq="192" velocity="0.371"/>
@@ -36,7 +36,7 @@
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <tonalities>1</tonalities>
     <notes>
       <note number="1" values="1,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -48,7 +48,7 @@
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <tonalities>1</tonalities>
     <notes>
       <note number="1" values="1,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -61,7 +61,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="wiseMenSay2_0.mp4" size="1017442" type="video/mp4">1636827a664d2e3948f3288753a437fc5b8b7c1cfeacf871eceb4d749ba24bbd</video>
+    <video name="wiseMenSay2_0.mp4" size="1017442" type="video/mp4" volume="1">1636827a664d2e3948f3288753a437fc5b8b7c1cfeacf871eceb4d749ba24bbd</video>
     <notes>
       <note number="1" values="1" ticks="312" durationTicks="105" ppq="96" velocity="0.306"/>
       <note number="2" values="5" ticks="505" durationTicks="188" ppq="96" velocity="0.304"/>
@@ -72,7 +72,7 @@
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <tonalities>1</tonalities>
     <notes>
       <note number="1" values="1,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -84,7 +84,7 @@
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <tonalities>1</tonalities>
     <notes>
       <note number="1" values="1,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -97,7 +97,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="wiseMenSay5_0.mp4" size="931688" type="video/mp4">e524e98b19a477e361a25fa5336e1380a2cb6c1a78747e65cc6e2b3b79412c35</video>
+    <video name="wiseMenSay5_0.mp4" size="931688" type="video/mp4" volume="1">e524e98b19a477e361a25fa5336e1380a2cb6c1a78747e65cc6e2b3b79412c35</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="145" ppq="96" velocity="0.304"/>
       <note number="2" values="5" ticks="176" durationTicks="161" ppq="96" velocity="0.296"/>
@@ -108,7 +108,7 @@
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <tonalities>1</tonalities>
     <notes>
       <note number="1" values="1,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -120,7 +120,7 @@
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <tonalities>1</tonalities>
     <notes>
       <note number="1" values="1,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -133,7 +133,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="wiseMenSay7_0.mp4" size="633390" type="video/mp4">3f600dce44ffd8abef092b2ab1661cbc131e3625a292bec47fe282bf5e473ae7</video>
+    <video name="wiseMenSay7_0.mp4" size="633390" type="video/mp4" volume="1">3f600dce44ffd8abef092b2ab1661cbc131e3625a292bec47fe282bf5e473ae7</video>
     <notes>
       <note number="1" values="1" ticks="99" durationTicks="174" ppq="96" velocity="0.316"/>
       <note number="2" values="5" ticks="293" durationTicks="164" ppq="96" velocity="0.309"/>
@@ -144,7 +144,7 @@
     <scale>major</scale>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
-    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <tonalities>1</tonalities>
     <notes>
       <note number="1" values="1,5,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>

@@ -46,3 +46,7 @@ stolbitsa.com/stolbitsa/tonic-harmonic
 
 ![full](https://github.com/user-attachments/assets/247347d2-1b70-4770-ae11-8ecfda96922f)
 ![part](https://github.com/user-attachments/assets/ac6d666f-d94e-4778-ac00-28ec4a588fc2)
+![full-5](https://github.com/user-attachments/assets/d20fc9b0-6974-4cdb-9859-46fdf0db6915)
+
+
+

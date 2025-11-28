@@ -13,7 +13,13 @@
 Частота при этом увеличивается на треть. Если была 1, то становится 1⅓. Если была 150, то становится 200 (50 это треть от 150) 
 Этот интервал, когда частота одной ноты в 1⅓ раза больше частоты другой, называется `Кварта`. Расстояние между `Доминантой` и верхней `Тоникой` - это `Кварта`.
 
-![](https://github.com/stolbitsa/stolbitsa/assets/149964365/2eb40fe2-e1ed-4c6b-8ed5-8492bc708f83)<br><br>
+![](https://github.com/stolbitsa/stolbitsa/assets/149964365/2eb40fe2-e1ed-4c6b-8ed5-8492bc708f83)
+
+
+Предыдущий урок:
+![](https://github.com/user-attachments/assets/3bfc3e1c-70df-4545-b3b5-03dd68c65a2a =350x200)
+stolbitsa.com/stolbitsa/tonic-harmonic
+<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -30,5 +36,11 @@ Another distance that we well learn on this level is between `Dominant` and uppe
 Frequency increases by one third. If it was 1 it becomes 1⅓. If it was 150 it becomes 200 (50 is one third of 150)
 This interval when the difference between the frequencies of two notes is 1⅓ is called `Forth`. There is a `Forth` between `Dominant` and upper `Tonic`.
 
-![](https://github.com/stolbitsa/stolbitsa/assets/149964365/2eb40fe2-e1ed-4c6b-8ed5-8492bc708f83)<br><br>
+![](https://github.com/stolbitsa/stolbitsa/assets/149964365/2eb40fe2-e1ed-4c6b-8ed5-8492bc708f83)
+
+
+Previous lesson:
+![](https://github.com/user-attachments/assets/3bfc3e1c-70df-4545-b3b5-03dd68c65a2a =350x200)
+stolbitsa.com/stolbitsa/tonic-harmonic
+<br><br>
 

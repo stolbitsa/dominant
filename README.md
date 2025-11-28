@@ -44,3 +44,5 @@ Previous lesson:
 stolbitsa.com/stolbitsa/tonic-harmonic
 <br><br>
 
+![full](https://github.com/user-attachments/assets/247347d2-1b70-4770-ae11-8ecfda96922f)
+![part](https://github.com/user-attachments/assets/ac6d666f-d94e-4778-ac00-28ec4a588fc2)

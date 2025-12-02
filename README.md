@@ -77,3 +77,9 @@ Previous lesson:
 stolbitsa.com/stolbitsa/tonic-harmonic
 <br><br>
 
+
+
+
+![stlbicata-ili-nov-metod-za-prepodavane-penie](https://github.com/user-attachments/assets/c8167bfa-1fcf-4f91-935c-bb2b9ac876d0)
+
+

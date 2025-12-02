@@ -2,18 +2,34 @@
 
 # Доминанта
 
-Вторая нота, которую мы изучим, называется `Доминанта`.
-Мы помним, что для того, чтобы получить `Тонику` на `Октаву` выше струну нужно укоротить ровно наполовину
-Для того, чтобы получить `Доминанту` струна укорачивается на одну треть. В этом случае частота звука извлекаемого этой струной увеличивается наполовину. Если была 1, то становится 1.5. Если была 100, то становится 150.
-Такое расстояние между нотами когда частота одной из них ровно в полтора раза больше другой, называется `Квинта`. Расстояние между `Тоникой` и `Доминантой` - это `Квинта`.
+Это первый урок на втором уровне сложности.
 
-![](https://github.com/stolbitsa/stolbitsa/assets/149964365/795ba3c2-6c95-4480-b857-b2841e9727d0)
+На первом уровне, хотя у нас было сначала два, а потом и три варианта ответа, мы работали только с одной нотой. Она была одинаковой	 ширины и цвета, и различалась только расположением - выше или ниже.
 
-Ещё одно расстояние, которое мы начнем изучать на этом уровне, это расстояние между `Доминантой` и верхней `Тоникой`. В этом случае струна укорачивается на одну четверть своей длины.
-Частота при этом увеличивается на треть. Если была 1, то становится 1⅓. Если была 150, то становится 200 (50 это треть от 150) 
-Этот интервал, когда частота одной ноты в 1⅓ раза больше частоты другой, называется `Кварта`. Расстояние между `Доминантой` и верхней `Тоникой` - это `Кварта`.
+![](https://github.com/user-attachments/assets/247347d2-1b70-4770-ae11-8ecfda96922f)
 
-![](https://github.com/stolbitsa/stolbitsa/assets/149964365/2eb40fe2-e1ed-4c6b-8ed5-8492bc708f83)
+Обозначалась она одной и той же цифрой	- 1
+
+Только когда справа стояла стрелочка вверх - 1⬆️ - это означало, что нота верхняя, а когда стрелочки не было - 1 - то нота нижняя. 
+
+![](https://github.com/user-attachments/assets/ac6d666f-d94e-4778-ac00-28ec4a588fc2)
+
+Эта нота называется `Тоника`. Она является самой главной нотой в музыке.
+
+А теперь начинается второй уровень сложности, на котором мы добавим новую ноту.
+
+Она будет находиться посередине между двумя первыми (низкой и высокой), будет немного меньше по ширине, иметь свой особенный цвет и обозначаться цифрой 5.
+
+![](https://github.com/user-attachments/assets/d20fc9b0-6974-4cdb-9859-46fdf0db6915)
+
+Эта нота называется `Доминанта`. И она в музыке вторая по значимости.
+
+Первым уровень был относительно простым - нужно было только угадать выше нота или ниже.
+
+Второй уровень значительно сложнее. Здесь ваши слуховые навыки начнут по настоящему выходить на новый уровень. 
+
+Не бойтесь, если поначалу вы будете делать много ошибок - это нормально. Просто занимайтесь регулярно и вы довольно скоро увидите, как ваши способности начнут значительно возрастать.
+
 
 
 Предыдущий урок:
@@ -25,28 +41,39 @@ stolbitsa.com/stolbitsa/tonic-harmonic
 
 # Dominant
 
-The second note we learn to hear is called the `Dominant`
-You remember that in order to get the `Tonic` one octave higher from the original string we had to shorted the length of the string by half.
-To get the `Dominant` we must shorten the string by one third of its length. When a string is shortened by one third its frequency increases by half. If it was 1 it becomes 1.5. If it was 100 it becomes 150.
-This distance when one note's frequency is 1.5 times more than the other's is called `Fifth`. There is a `Fifth` between `Tonic` and `Dominant`.
+This is the first lesson at the second difficulty level.
 
-![](https://github.com/stolbitsa/stolbitsa/assets/149964365/795ba3c2-6c95-4480-b857-b2841e9727d0)
+On the first level, even though we had two, and later three answer choices, we were only working with one note. It was the same width and color, and differed only in position – higher or lower.
 
-Another distance that we well learn on this level is between `Dominant` and upper `Tonic`. In this case the string is shortened by one quarter of its length. 
-Frequency increases by one third. If it was 1 it becomes 1⅓. If it was 150 it becomes 200 (50 is one third of 150)
-This interval when the difference between the frequencies of two notes is 1⅓ is called `Forth`. There is a `Forth` between `Dominant` and upper `Tonic`.
+![](https://github.com/user-attachments/assets/247347d2-1b70-4770-ae11-8ecfda96922f)
 
-![](https://github.com/stolbitsa/stolbitsa/assets/149964365/2eb40fe2-e1ed-4c6b-8ed5-8492bc708f83)
+It was designated by the same number – 1.
+
+Only when there was an up arrow on the right – 1⬆️ – it meant the note was the upper one, and when there was no arrow – 1 – the note was the lower one.
+
+![](https://github.com/user-attachments/assets/ac6d666f-d94e-4778-ac00-28ec4a588fc2)
+
+This note is called the `Tonic`. It is the most important note in music.
+
+And now the second difficulty level begins, where we will add a new note.
+
+It will be positioned in the middle between the first two (low and high), will be slightly narrower, have its own unique color, and be designated by the number 5.
+
+![](https://github.com/user-attachments/assets/d20fc9b0-6974-4cdb-9859-46fdf0db6915)
+
+This note is called the `Dominant`. And it is the second most significant note in music.
+
+The first level was relatively simple – you only had to guess whether the note was higher or lower.
+
+The second level is significantly more challenging. Here, your listening skills will truly begin to reach a new level.
+
+Don't worry if you make a lot of mistakes at first – that's normal. Just practice regularly, and you'll soon see how your abilities will start to grow significantly.
+
+
 
 
 Previous lesson:
 ![](https://github.com/user-attachments/assets/3bfc3e1c-70df-4545-b3b5-03dd68c65a2a =350x200)
 stolbitsa.com/stolbitsa/tonic-harmonic
 <br><br>
-
-![full](https://github.com/user-attachments/assets/247347d2-1b70-4770-ae11-8ecfda96922f)
-![part](https://github.com/user-attachments/assets/ac6d666f-d94e-4778-ac00-28ec4a588fc2)
-![full-5](https://github.com/user-attachments/assets/d20fc9b0-6974-4cdb-9859-46fdf0db6915)
-
-
 

@@ -79,7 +79,7 @@ stolbitsa.com/stolbitsa/tonic-harmonic
 
 
 
+![stlbicata-ili-nov-metod-za-prepodavane-penie1](https://github.com/user-attachments/assets/7ade9ae3-7d1f-4ad4-b11d-b4f9f9be08fd)
 
-![stlbicata-ili-nov-metod-za-prepodavane-penie](https://github.com/user-attachments/assets/c8167bfa-1fcf-4f91-935c-bb2b9ac876d0)
 
 

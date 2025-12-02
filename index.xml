@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>dominant</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="Fistachka" repo="dominant-f"/>
   <readme>
-    <ru>ee3010c45a634f06d47a177457bdfaf845ac1e90e4eef594876f1b7c011e5b18</ru>
-    <en>ec6348000ffd837a771f8ca48dfcc0b5c94cbeae3f90a91fe788fd8bfc1ec5f8</en>
+    <ru>7a1ad159004694ef127835a4cbb7620f30284f03079edffc81c64274f65495fe</ru>
+    <en>e3cf913314852b37c339b1cf6b8c11c86c33558662123a9c94ff0f1873172570</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">

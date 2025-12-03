@@ -87,3 +87,18 @@ stolbitsa.com/stolbitsa/tonic-harmonic
 ![notarche-1](https://github.com/user-attachments/assets/c92762cf-170f-4089-beb1-25178cb99323)
 
 
+<img width="512" height="512" alt="stolbitsa-sol-fa" src="https://github.com/user-attachments/assets/cf4f297e-14aa-4849-ac46-af9500631236" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
